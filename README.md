@@ -29,7 +29,7 @@ Based in **Dhaka, Bangladesh**, I thrive on turning ideas into reality through c
 ### [EasyCommerce](https://github.com/easycommercedev/easycommerce)
 A comprehensive WordPress eCommerce plugin that simplifies online store management with powerful features and intuitive interfaces. Contributing to this project has strengthened my expertise in building scalable, production-ready WordPress solutions.
 
-**Technologies:** PHP, WordPress, WooCommerce, JavaScript
+**Technologies:** PHP, WordPress, JavaScript, React 
 
 ## 🎯 What Drives Me
 
