@@ -54,7 +54,7 @@ A comprehensive WordPress eCommerce plugin that simplifies online store manageme
 ## 🌐 Connect With Me
 
 * 📂 **GitHub:** [github.com/NHTanvir](https://github.com/NHTanvir)
-* 💼 **Facebook:** [fb.com/NaymulHasanTanvir](https://facebook.com/NaymulHasanTanvir)
+* 💼 **Facebook:** [facebook.com/NaymulHasanTanvir](https://facebook.com/NaymulHasanTanvir)
 * 📍 **Location:** Dhaka, Bangladesh
 * ✉️ **Email:** Feel free to reach out for collaborations or discussions!
 
