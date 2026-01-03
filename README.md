@@ -45,11 +45,10 @@ A comprehensive WordPress eCommerce plugin that simplifies online store manageme
 * 📚 Happy to share knowledge and learn from fellow developers
 * 🌟 Interested in contributing to open-source projects
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![Naymul's GitHub stats](https://github-readme-stats.vercel.app/api?username=NHTanvir&show_icons=true&theme=radical&cache_seconds=1800)
+![GitHub Streak](https://streak-stats.demolab.com?user=NHTanvir&theme=radical&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NHTanvir&layout=compact&theme=radical&cache_seconds=1800)
 
 ## 🌐 Connect With Me
 
