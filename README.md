@@ -48,7 +48,6 @@ A comprehensive WordPress eCommerce plugin that simplifies online store manageme
 
 ## 📊 GitHub Highlights
 
-![GitHub Streak](https://streak-stats.demolab.com?user=NHTanvir&theme=radical&hide_border=true)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHTanvir&theme=radical)
 
