@@ -51,7 +51,7 @@ A comprehensive WordPress eCommerce plugin that simplifies online store manageme
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHTanvir&theme=radical)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=NHTanvir&theme=radical&no-frame=true&column=4)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=NHTanvir&theme=radical)
 
 
 ## 🌐 Connect With Me
