@@ -72,21 +72,38 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ## 📌 Featured Project
 
+<p align="center">
+  <a href="https://wordpress.org/plugins/easycommerce/">
+    <img src="https://ps.w.org/easycommerce/assets/banner-772x250.png" alt="EasyCommerce — AI-Powered WordPress Ecommerce Plugin" width="100%" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
-      <img src="https://img.icons8.com/fluency/96/shop.png" alt="EasyCommerce" width="72" />
+      <a href="https://wordpress.org/plugins/easycommerce/">
+        <img src="https://ps.w.org/easycommerce/assets/icon-128x128.gif" alt="EasyCommerce" width="96" />
+      </a>
     </td>
     <td valign="middle">
-      <h3>🛍️ EasyCommerce</h3>
+      <h3>🛍️ <a href="https://wordpress.org/plugins/easycommerce/">EasyCommerce</a> — AI-Powered WordPress eCommerce Plugin</h3>
       <p>
-        A full-featured <b>WordPress eCommerce plugin</b> designed to make online store management effortless — no bloat, no compromise. Contributing here has sharpened my craft for architecting <b>scalable, production-grade</b> WordPress solutions that merchants rely on every day.
+        The first and only <b>AI-powered WordPress eCommerce plugin</b> that automates product content, image generation, and business analytics — all on top of dedicated database architecture that ships <b>3–5× faster</b> than traditional platforms. Built to sell digital products, subscriptions, and physical goods without the bloat of legacy eCommerce stacks.
+      </p>
+      <p>
+        Contributing here has sharpened my craft for architecting <b>scalable, production-grade</b> WordPress solutions that real merchants rely on every day.
+      </p>
+      <p>
+        <a href="https://wordpress.org/plugins/easycommerce/"><img src="https://img.shields.io/badge/WordPress.org-Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+        <a href="https://downloads.wordpress.org/plugin/easycommerce.latest-stable.zip"><img src="https://img.shields.io/badge/Download-Latest-10B981?style=for-the-badge&logo=download&logoColor=white" /></a>
+        <a href="https://wordpress.org/support/plugin/easycommerce/"><img src="https://img.shields.io/badge/Support-Forum-7C3AED?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
       </p>
       <p>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
         <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square&logo=openai&logoColor=white" />
       </p>
     </td>
   </tr>
