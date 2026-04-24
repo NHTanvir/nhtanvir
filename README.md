@@ -72,17 +72,25 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ## 📌 Featured Project
 
-<a href="https://github.com/easycommercedev/easycommerce">
-  <img align="right" height="140" src="https://github-readme-stats.vercel.app/api/pin/?username=easycommercedev&repo=easycommerce&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981" />
-</a>
-
-### 🛍️ [EasyCommerce](https://github.com/easycommercedev/easycommerce)
-
-A full-featured **WordPress eCommerce plugin** designed to make online store management effortless — no bloat, no compromise. Contributing here has sharpened my craft for architecting **scalable, production-grade** WordPress solutions that merchants rely on every day.
-
-**Stack:** `PHP` · `WordPress` · `JavaScript` · `React`
-
-<br clear="right"/>
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <img src="https://img.icons8.com/fluency/96/shop.png" alt="EasyCommerce" width="72" />
+    </td>
+    <td valign="middle">
+      <h3>🛍️ EasyCommerce</h3>
+      <p>
+        A full-featured <b>WordPress eCommerce plugin</b> designed to make online store management effortless — no bloat, no compromise. Contributing here has sharpened my craft for architecting <b>scalable, production-grade</b> WordPress solutions that merchants rely on every day.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -116,8 +124,12 @@ A full-featured **WordPress eCommerce plugin** designed to make online store man
 <p align="center">
   <a href="https://github.com/NHTanvir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://facebook.com/NaymulHasanTanvir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="mailto:naymulhasantanvir10@gmail.com"><img src="https://img.shields.io/badge/Email-naymulhasantanvir10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
-  <img src="https://img.shields.io/badge/Email-Let's_Talk!-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</p>
+
+<p align="center">
+  📬 <a href="mailto:naymulhasantanvir10@gmail.com"><b>naymulhasantanvir10@gmail.com</b></a> — drop me a line anytime!
 </p>
 
 ---
