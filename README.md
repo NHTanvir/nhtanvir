@@ -70,7 +70,9 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ---
 
-## 📌 Featured Project
+## 📌 Featured Projects
+
+### 🛍️ [EasyCommerce](https://wordpress.org/plugins/easycommerce/) — AI-Powered WordPress eCommerce Plugin
 
 <p align="center">
   <a href="https://wordpress.org/plugins/easycommerce/">
@@ -86,7 +88,6 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
       </a>
     </td>
     <td valign="middle">
-      <h3>🛍️ <a href="https://wordpress.org/plugins/easycommerce/">EasyCommerce</a> — AI-Powered WordPress eCommerce Plugin</h3>
       <p>
         The first and only <b>AI-powered WordPress eCommerce plugin</b> that automates product content, image generation, and business analytics — all on top of dedicated database architecture that ships <b>3–5× faster</b> than traditional platforms. Built to sell digital products, subscriptions, and physical goods without the bloat of legacy eCommerce stacks.
       </p>
@@ -104,6 +105,47 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
         <img src="https://img.shields.io/badge/AI_Powered-FF6B6B?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### 🖼️ [ThumbPress](https://wordpress.org/plugins/image-sizes/) — Image Management Suite for WordPress
+
+<p align="center">
+  <a href="https://wordpress.org/plugins/image-sizes/">
+    <img src="https://ps.w.org/image-sizes/assets/banner-772x250.png" alt="ThumbPress — Image Management Suite for Performance and Optimization" width="100%" />
+  </a>
+</p>
+
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://wordpress.org/plugins/image-sizes/">
+        <img src="https://ps.w.org/image-sizes/assets/icon-256x256.png" alt="ThumbPress" width="96" />
+      </a>
+    </td>
+    <td valign="middle">
+      <p>
+        A complete <b>image management suite</b> trusted by <b>30,000+ WordPress sites</b> to slim down bloated media libraries. ThumbPress disables unused thumbnails, regenerates missing ones, converts JPG/PNG to <b>WebP</b> in bulk, detects unused and oversized images, and sets per-platform social media thumbnails — all from a clean dashboard.
+      </p>
+      <p>
+        Working on ThumbPress has deepened my understanding of <b>WordPress media internals</b>, <b>Action Scheduler-based background jobs</b>, and shipping performance-critical features to a large install base.
+      </p>
+      <p>
+        <a href="https://wordpress.org/plugins/image-sizes/"><img src="https://img.shields.io/badge/WordPress.org-Plugin-21759B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+        <a href="https://downloads.wordpress.org/plugin/image-sizes.latest-stable.zip"><img src="https://img.shields.io/badge/Download-Latest-10B981?style=for-the-badge&logo=download&logoColor=white" /></a>
+        <a href="https://thumbpress.co/"><img src="https://img.shields.io/badge/ThumbPress-Pro-F59E0B?style=for-the-badge&logo=wordpress&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/Active_Installs-30,000%2B-10B981?style=for-the-badge&logo=wordpress&logoColor=white" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+        <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/WebP-4285F4?style=flat-square&logo=google&logoColor=white" />
+        <img src="https://img.shields.io/badge/Performance-10B981?style=flat-square&logo=speedtest&logoColor=white" />
       </p>
     </td>
   </tr>
