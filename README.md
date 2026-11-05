@@ -82,6 +82,12 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ### 🪷 [WP Pond](https://naymul.com/wp-pond/) — Native Local WordPress Development, in Rust
 
+<p align="center">
+  <a href="https://naymul.com/wp-pond/">
+    <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-banner.png" alt="WP Pond — native local WordPress development in Rust, no Docker and no VM" width="100%" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
