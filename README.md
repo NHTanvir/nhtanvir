@@ -156,8 +156,8 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 ## 📊 GitHub in Numbers
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHTanvir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=E5E7EB&include_all_commits=true&count_private=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=NHTanvir&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHTanvir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=E5E7EB&include_all_commits=true" />
+  <img height="180" src="https://streak-stats.demolab.com/?user=NHTanvir&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED" />
 </p>
 
 <p align="center">
@@ -183,12 +183,12 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 <p align="center">
   <a href="https://github.com/NHTanvir"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://facebook.com/NaymulHasanTanvir"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="mailto:naymulhasantanvir10@gmail.com"><img src="https://img.shields.io/badge/Email-naymulhasantanvir10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:naymulhasantanvir10@gmail.com"><img src="https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Dhaka,_Bangladesh-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
 </p>
 
 <p align="center">
-  📬 <a href="mailto:naymulhasantanvir10@gmail.com"><b>naymulhasantanvir10@gmail.com</b></a> — drop me a line anytime!
+  📬 <a href="mailto:naymulhasantanvir10@gmail.com"><b>Drop me a line</b></a> — always happy to talk shop!
 </p>
 
 ---
