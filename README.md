@@ -82,33 +82,44 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ### 🪷 [WP Pond](https://github.com/NHTanvir/wp-pond) — Native Local WordPress Development, in Rust
 
-<p>
-  <a href="https://github.com/NHTanvir/wp-pond"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Role-Author_%26_Maintainer-7C3AED?style=for-the-badge" />
-</p>
-
-My flagship project — a **host-based (non-Docker) local WordPress development tool**, and an open-source
-alternative to Local/LocalWP. Built as a **12-crate Rust workspace** with a Tauri 2 desktop GUI.
-
-WP Pond supervises bundled **PHP, MariaDB/MySQL, and nginx/Apache** binaries directly on the host:
-no Docker, no VM, no daemons. It routes `*.local` domains through an nginx reverse proxy on ports
-80/443, terminates TLS with a locally-trusted CA, and provisions WordPress through WP-CLI. Every site
-picks its own **PHP (5.6 → 8.5)**, database engine, and web server — each changeable on an existing
-site and downloaded on demand.
-
-Also ships site clone, export/import, blueprints, one-click WP admin login, an Xdebug toggle, Adminer,
-and Mailpit mail capture. Targets **Windows** and **Ubuntu/Debian x86_64 (16.04+)**, with the Linux
-binary floor verified by executing every bundled binary inside containers of the oldest supported release.
-
-<p>
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
-  <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white" />
-</p>
+<table>
+  <tr>
+    <td width="120" align="center" valign="middle">
+      <a href="https://github.com/NHTanvir/wp-pond">
+        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-icon.png" alt="WP Pond" width="96" />
+      </a>
+    </td>
+    <td valign="middle">
+      <p>
+        My flagship project — a <b>host-based (non-Docker) local WordPress development tool</b>, and an
+        open-source alternative to Local/LocalWP. Built as a <b>12-crate Rust workspace</b> with a Tauri 2 desktop GUI.
+      </p>
+      <p>
+        WP Pond supervises bundled <b>PHP, MariaDB/MySQL, and nginx/Apache</b> binaries directly on the host —
+        no Docker, no VM, no daemons. It routes <code>*.local</code> domains through an nginx reverse proxy on
+        ports 80/443, terminates TLS with a locally-trusted CA, and provisions WordPress through WP-CLI. Every
+        site picks its own <b>PHP (5.6 → 8.5)</b>, database engine, and web server — each changeable on an
+        existing site and downloaded on demand.
+      </p>
+      <p>
+        Also ships site clone, export/import, blueprints, one-click WP admin login, an Xdebug toggle, Adminer,
+        and Mailpit mail capture. Targets <b>Windows</b> and <b>Ubuntu/Debian x86_64 (16.04+)</b>.
+      </p>
+      <p>
+        <a href="https://github.com/NHTanvir/wp-pond"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+        <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/Role-Author_%26_Maintainer-7C3AED?style=for-the-badge" />
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
+        <img src="https://img.shields.io/badge/Tauri-24C8D8?style=flat-square&logo=tauri&logoColor=white" />
+        <img src="https://img.shields.io/badge/nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
+        <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+        <img src="https://img.shields.io/badge/WP--CLI-21759B?style=flat-square&logo=wordpress&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
@@ -196,19 +207,19 @@ binary floor verified by executing every bundled binary inside containers of the
 ## 📊 GitHub in Numbers
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=NHTanvir&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=10B981&text_color=E5E7EB&include_all_commits=true" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=NHTanvir&theme=radical" />
   <img height="180" src="https://streak-stats.demolab.com/?user=NHTanvir&theme=radical&hide_border=true&background=0D1117&ring=7C3AED&fire=10B981&currStreakLabel=7C3AED" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NHTanvir&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=E5E7EB&langs_count=8" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHTanvir&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NHTanvir&theme=radical" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NHTanvir&theme=radical" />
 </p>
 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NHTanvir&theme=react-dark&bg_color=0D1117&color=7C3AED&line=10B981&point=FFFFFF&hide_border=true&area=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NHTanvir&theme=radical" />
 </p>
 
 ---
