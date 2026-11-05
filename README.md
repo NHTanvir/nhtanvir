@@ -19,7 +19,7 @@ I'm a **Software Engineer** from **Dhaka, Bangladesh 🇧🇩** with nearly **5 
 
 I care about **clean architecture, thoughtful UX, and code that ages well**. From a bespoke WordPress plugin to a cross-platform React Native app used by real people every day, I enjoy every step of the journey — from first sketch to production rollout. I'm always learning, always iterating, and always hungry for the next meaningful problem to solve.
 
-🔭 **Currently building [WP Pond](https://github.com/NHTanvir/wp-pond)** — a native, non-Docker local WordPress development environment written in Rust.
+🔭 **Currently building [WP Pond](https://naymul.com/wp-pond/)** — a native, non-Docker local WordPress development environment written in Rust.
 
 ---
 
@@ -80,13 +80,13 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 
 ## 📌 Featured Projects
 
-### 🪷 [WP Pond](https://github.com/NHTanvir/wp-pond) — Native Local WordPress Development, in Rust
+### 🪷 [WP Pond](https://naymul.com/wp-pond/) — Native Local WordPress Development, in Rust
 
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
       <a href="https://github.com/NHTanvir/wp-pond">
-        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-icon.png" alt="WP Pond" width="96" />
+        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-icon.png?v=1" alt="WP Pond" width="96" />
       </a>
     </td>
     <td valign="middle">
@@ -106,6 +106,7 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
         and Mailpit mail capture. Targets <b>Windows</b> and <b>Ubuntu/Debian x86_64 (16.04+)</b>.
       </p>
       <p>
+        <a href="https://naymul.com/wp-pond/"><img src="https://img.shields.io/badge/Website-wp--pond-7C3AED?style=for-the-badge&logo=rust&logoColor=white" /></a>
         <a href="https://github.com/NHTanvir/wp-pond"><img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         <img src="https://img.shields.io/badge/License-MIT-10B981?style=for-the-badge" />
         <img src="https://img.shields.io/badge/Role-Author_%26_Maintainer-7C3AED?style=for-the-badge" />
