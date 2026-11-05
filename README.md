@@ -68,7 +68,7 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. Fro
 |-------|--------------|
 | **Rust** | Systems work — WP Pond is a 12-crate Rust workspace with a Tauri desktop GUI |
 | **PHP** | The backbone of every production-grade WordPress backend I ship |
-| **TypeScript** | Typed React/Next.js front ends — see [NextCommerce](https://github.com/NHTanvir/NextCommerce) |
+| **TypeScript** | Typed React/Next.js front ends |
 | **React** | Component-driven UIs that stay fast and maintainable over time |
 | **React Native** | One codebase, native feel on both iOS and Android |
 | **WordPress** | Custom plugins, themes, and occasional ecosystem contributions |
