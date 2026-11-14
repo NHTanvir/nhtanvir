@@ -100,7 +100,7 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. I'd
   <tr>
     <td width="120" align="center" valign="middle">
       <a href="https://naymul.com/wp-pond/">
-        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-icon.png?v=1" alt="WP Pond" width="96" />
+        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/wp-pond-icon.png?v=2" alt="WP Pond" width="96" />
       </a>
     </td>
     <td valign="middle">
@@ -139,11 +139,17 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. I'd
 
 ### 🛡️ [Lancer](https://github.com/NHTanvir/lancer) — Rust-Native Web Security Testing Suite
 
+<p align="center">
+  <a href="https://github.com/NHTanvir/lancer">
+    <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/lancer-banner.png" alt="Lancer — Rust-native web security testing suite" width="100%" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
       <a href="https://github.com/NHTanvir/lancer">
-        <h1>&#128737;&#65039;</h1>
+        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/lancer-icon.png" alt="Lancer" width="96" />
       </a>
     </td>
     <td valign="middle">
@@ -185,11 +191,17 @@ I care about **clean architecture, thoughtful UX, and code that ages well**. I'd
 
 ### 🛒 [NextCommerce](https://github.com/NHTanvir/NextCommerce) — Full-Stack Commerce Platform
 
+<p align="center">
+  <a href="https://github.com/NHTanvir/NextCommerce">
+    <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/nextcommerce-banner.png" alt="NextCommerce — full-stack commerce in one monorepo" width="100%" />
+  </a>
+</p>
+
 <table>
   <tr>
     <td width="120" align="center" valign="middle">
       <a href="https://github.com/NHTanvir/NextCommerce">
-        <h1>&#128722;</h1>
+        <img src="https://raw.githubusercontent.com/NHTanvir/nhtanvir/master/assets/nextcommerce-icon.png" alt="NextCommerce" width="96" />
       </a>
     </td>
     <td valign="middle">
